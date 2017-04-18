@@ -7,6 +7,7 @@
 #               两个前提：
 #               1.整形数组给定后不会变化
 #               2.会多次获取数组区间的和（保证查询效率）
+# Url         : leetcode.com/problems/range-sum-query-immutable
 # Author      : iwannarock
 # History:
 # 1. 2017/4/19 2:11 , iwannarock, first create
