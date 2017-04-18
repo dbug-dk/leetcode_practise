@@ -1,6 +1,7 @@
 #! coding=utf8
 # Filename    : 303_sum_range_query.py
-# Description : Given an integer array nums, find the sum of the elements between indices i and j (i ≤ j), inclusive.
+# Description : Given an integer array nums,
+#               find the sum of the elements between indices i and j (i ≤ j), inclusive.
 #               1.You may assume that the array does not change.
 #               2.There are many calls to sumRange function.
 #               给一个整形数组，求数组下标i到下标j（包括）之间的数之和。
